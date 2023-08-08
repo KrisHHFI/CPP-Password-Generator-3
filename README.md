@@ -1,6 +1,6 @@
 # CPP-Password-Generator-3
 
-<img src="" width="650"/>
+<img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/6fbdba23-85fa-4e56-9c12-49a58204cff2/Password+Generator+3+Preview.png"/>
 
 ### About
 - This program is based on my previous program the "CPP-Password-Generator". This is the third iteration of the series. The previous edition ran in the terminal. Now, I have added a GUI.
